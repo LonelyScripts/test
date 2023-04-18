@@ -1,0 +1,3 @@
+local player = game.Players.LocalPlayer
+
+if player.Name == {"PookyAG", "Panda_45178"} then
