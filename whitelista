@@ -1,4 +1,6 @@
 userids = {
-[430746318] = true,
+[430746318] = true, -- this is my userid, remove it and add as much as you want in it.
+[2849591281] = true
 }
 return userids
+-- These will be our whitelisted users
