@@ -1,3 +1,4 @@
-local player = game.Players.LocalPlayer
-
-if player.Name == {"PookyAG", "Panda_45178"} then
+userids = {
+[430746318] = true,
+}
+return userids
